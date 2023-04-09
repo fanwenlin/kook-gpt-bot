@@ -1,0 +1,12 @@
+Kook:
+    Token: "1/xxxxxxxxTav123dkjlkjlkasdfiojg=="
+    BaseUrl: "https://www.kookapp.cn/api"
+    HTTPServerIp: "0.0.0.0"
+    HTTPServerPort: "8082"
+    VerifyToken: "xxxxxxxx"
+    EncryptKey: "123abcxxx"
+    BotID: 123456
+    BotRoleID: 123xxx
+ChatGPT:
+    APIHost: "https://api.openai.com/v1/chat/completions/"
+    APIKey: "sk-xxxxxxxxxxxxxxX"

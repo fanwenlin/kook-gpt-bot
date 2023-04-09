@@ -1,0 +1,7 @@
+session.pid
+.idea/
+conf/config.go
+main
+test
+*.yaml
+.sh
